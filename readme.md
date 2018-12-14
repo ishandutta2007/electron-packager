@@ -210,3 +210,10 @@ These Node modules utilize Electron Packager API hooks:
 - [electron-packager-plugin-non-proprietary-codecs-ffmpeg](https://www.npmjs.com/package/electron-packager-plugin-non-proprietary-codecs-ffmpeg) - replaces the normal version of FFmpeg in Electron with a version without proprietary codecs
 - [electron-rebuild](https://github.com/electron/electron-rebuild) - rebuild native Node.js modules
   against the packaged Electron version
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
